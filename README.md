@@ -3,7 +3,7 @@
 - 💻 Currently studying Computer Science
 - 🌲 Biological Sciences Degree from the University of Manitoba
 - 🐟 Former Aquatic Biologist at Fisheries and Oceans Canada
-- 📱 Professional interests: Mobile app development, UX research, accessibility and "warm" technologies
+- 📱 Professional interests: Mobile app development, UX research, accessibility and "warm" technology
 - 🛫 Non-professional interests: Hiking, travel, ultimate frisbee and baking
 
 <!--
