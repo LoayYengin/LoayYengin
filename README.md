@@ -18,8 +18,7 @@ This document references Andrew Etter's book, [Modern Techncial Writing: An intr
 - **Resume formated in Markdown**
   - Here is a [tutorial](https://www.markdowntutorial.com/) to learn Markdown 
   - An online markdown editor by [Dillinger](https://dillinger.io/) can be used 
-- **Git** - a free open source distributed version control system. [Install Git](https://git-scm.
-  com/book/en/v2/Getting-Started-Installing-Git)
+- **Git** - a free open source distributed version control system. [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - **Jekyll** - A static website generator. [Install Jekyll](https://jekyllrb.com/docs/installation/)
 - **Github account** - [Sign up](https://github.com/join) for a free!
 
@@ -27,8 +26,7 @@ This document references Andrew Etter's book, [Modern Techncial Writing: An intr
 
 ## More Resources
 - [Markdown tutorial](https://www.markdowntutorial.com/)
-- [Modern Techncial Writing: An introduction to Software Documentation]
-  (https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+- [Modern Techncial Writing: An introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 - [Jekyll Documentation](https://jekyllrb.com/docs/)
 - [Jekyll Tutorial](https://www.mikedane.com/static-site-generators/jekyll/)
 
