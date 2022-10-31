@@ -40,7 +40,7 @@ This document references Andrew Etter's book, [Modern Techncial Writing: An intr
 3. Host your website with Github Pages
 - Go to `Settings > Pages`
 - Select your new branch as the source and click "save"
->Your static site is now hosted on `uhttps://username.github.io/repository-name`. This may take a few minutes to deploy
+>Your static site is now hosted on `https://username.github.io/repository-name`. This may take a few minutes to deploy
 
 4. View the website locally
 - Open the command line 
