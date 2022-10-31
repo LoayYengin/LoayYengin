@@ -25,24 +25,24 @@ This document references Andrew Etter's book, [Modern Techncial Writing: An intr
 
 ## Instructions
 
-1. Fork a theme repository
+###1. Fork a theme repository
 - Go to a Jekyll theme respository.
   - Here is a [collection](https://github.com/pages-themes) of Jekyll themes for GitHub Pages
 - Click on the "Fork" button 
 - Change the name of the repository to `username.github.io`
 
-2. Create a new branch
+###2. Create a new branch
 - Go to branch
 - Click on "New Branch" button
   - Give it a name
   - click "create branch" button
 
-3. Host your website with Github Pages
+###3. Host your website with Github Pages
 - Go to `Settings > Pages`
 - Select your new branch as the source and click "save"
 >Your static site is now hosted on `https://username.github.io/repository-name`. This may take a few minutes to deploy
 
-4. View the website locally
+###4. View the website locally
 - Open the command line 
 - Clone the respository with the command: `git clone https://github.com/LoayYengin/minimal.git`
   - To find the URL Click the "Code" button and copy the HTTPS link
@@ -57,7 +57,7 @@ This document references Andrew Etter's book, [Modern Techncial Writing: An intr
   - Only `jekyll serve` is required after hosting your site locally for the first time.
 - Open up a web browser and go to`localhost:4000` to preview your website
 
-5. Customize your website locally
+###5. Customize your website locally
 - Open index.md in a text editor
 - Replace the contents in `index.md` with your Markdown formatted resume content 
 ```text
@@ -70,7 +70,7 @@ layout: default
 - Run the command `jekyll build` to apply changes your website.
 - Refresh your browser to view the update.
 
-6. Update your website in remote repository
+###6. Update your remote repository
 - Run the command `git add .` to stage all the files that were modified
 - Commit your changes
   - `git commit on "your commit message"`
