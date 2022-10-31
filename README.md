@@ -28,7 +28,8 @@ This document references Andrew Etter's book, [Modern Techncial Writing: An intr
 ### 1. Fork a theme repository
 - Go to a Jekyll theme respository.
   - Here is a [collection](https://github.com/pages-themes) of Jekyll themes for GitHub Pages
-- Click on the "Fork" button 
+- Click on the "Fork" button   
+![fork-repo](readme-assets/fork-repo.png)
 - Change the name of the repository to `username.github.io`
 
 ### 2. Create a new branch
@@ -76,7 +77,8 @@ layout: default
   - `git commit on "your commit message"`
 - Push your changes.
   - 'git push '
-
+  
+NOTE: It may take several minutes for GitHub pages update
 
 ## More Resources
 - [Markdown tutorial](https://www.markdowntutorial.com/)
