@@ -21,14 +21,12 @@ by hosting your own resume on a static website.
 - **Jekyll** - A static website generator. [Install Jekyll](https://jekyllrb.com/docs/installation/)
 - **Github account** - [Sign up](https://github.com/join) for free!
 
-NOTE: No experience with Markdown, GitHub, or the command line is assumed.
+NOTE: No prior experience with Markdown, GitHub, or the command line is required.
 
 # Instructions
-Begin by following the steps to [hosting a resume](#hosting-a-Resume). Next, learn about how they relate to the 
+Begin with following the steps to [hosting a resume](#hosting-a-Resume). Next, learn about how they relate to the 
 [principles of techncial writing](#Principles-of-Technical-Writing) in Etter's book. In the end you should have a 
-working 
-website with your resume on it 
-and more knowledgeable about modern technical writing.
+working website with your resume on it and be more knowledgeable about modern technical writing.
 
 ## Hosting a Resume
 
@@ -37,8 +35,8 @@ and more knowledgeable about modern technical writing.
   - Here is a [collection](https://github.com/pages-themes) of Jekyll themes for GitHub Pages
 - Click **Fork**  
 ![fork-repo](readme-assets/fork-repo.png)
-- Change the name of the repository  
-![repo-name](readme-assets/repo-name.png)
+- Change the name of the repository and click **Create fork**  
+![rename-repo](readme-assets/rename-repo.gif)
 
 ### 2. Create a new branch
 - Go to branch  
