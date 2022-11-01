@@ -32,7 +32,7 @@ book.
 ### 1. Fork a theme repository
 - Go to a Jekyll theme respository.
   - Here is a [collection](https://github.com/pages-themes) of Jekyll themes for GitHub Pages
-- Click the "Fork" button   
+- Click **Fork**  
 ![fork-repo](readme-assets/fork-repo.png)
 - Change the name of the repository  
 ![repo-name](readme-assets/repo-name.png)
@@ -40,15 +40,15 @@ book.
 ### 2. Create a new branch
 - Go to branch  
 ![branch](readme-assets/branch.png)
-- Click the "New Branch" button
+- Click **New Branch**
   - Give it a name
-  - Click the "create branch" button
+  - Click **Create branch**
 
 ![create-branch](readme-assets/create-branch.gif)
 
 ### 3. Host your website with Github Pages
 - Go to `Settings > Pages`
-- Select your new branch as the source and click the "save" button  
+- Select your new branch as the source and click **Save**   
 ![host-website](readme-assets/host-website.gif)
 
 Note: Your static site is now hosted at `https://username.github.io/repository-name`. This may take a few minutes to 
@@ -57,7 +57,7 @@ Note: Your static site is now hosted at `https://username.github.io/repository-n
 ### 4. View the website locally
 - Open the command line 
 - Clone the respository with the command: `git clone https://github.com/LoayYengin/minimal.git`
-  - To find the URL Click the "Code" button and copy the HTTPS link  
+  - To find the URL Click **Code** and **copy** the HTTPS link  
 ![clone-repo](readme-assets/clone-repo.gif)
 - Go into the repository: `cd "respository-name"`
 - Change to the new branch: `git switch my-resume`
@@ -94,6 +94,36 @@ NOTE: It may take several minutes for GitHub pages update
 
 ## Principles of Technical Writing
 
+Relate the steps above to general principles of techncial writing
+
+### Know your Audience
+
+Writers have to make assumptions about their readers for them to target the writing towards their audience. If the 
+assumption is made that the reader knows nothing about the topic, the writer would have to provide more background 
+information and explanation. However, If the if the reader is already knowledgeable about the topic, then the 
+writing can be more concise and to the point. Defining your audience can help 
+you decide what level of detail to include in your writing. Writers have to make assumptions about their readers for 
+them to target their writing towards their audience. For example, if you're writing for experts in a particular 
+field, you can assume that they already have a lot of knowledge about the topic and therefore don't need a lot of 
+explanation. On the other hand, if you're writing for people who are new to the topic, you'll need to provide more 
+detail.
+
+### Functional Documentation
+
+Documentation should be able to tell teh reader what the product is and why tehy want ot use it. This can be simple 
+and to the point, or it can be more elaborate, depending on the product. Regardless, it should be clear and concise, 
+and structed in a way that is easy to follow.
+
+### Style
+
+Consistency is important in technical writing so that readers can easily understand what is being communicated. A 
+consistent style also makes it easier for writers to produce clear and concise text. Additionally, the use headers,  
+lists, tables and images makes it easier to scan and mentally process the information.
+
+### Use a Website
+
+Hosting technical information on a website allows the writer to quickly and easily distribute their writing. This 
+also allows the writer to keep their writing up-to-date and accessible to the widest possible audience.
 
 
 ## More Resources
@@ -104,11 +134,11 @@ NOTE: It may take several minutes for GitHub pages update
 
 ## Authors and Acknowledgements
 
-- Author: Yengin Loay
-- Group Members: 
+- **Author**: Yengin Loay
+- **Group Members**: 
   - Aidan
   - May
-- Minimal Theme Author: Steve Smith
+- **Minimal Theme Author**: Steve Smith
 
 ## FAQs
 
