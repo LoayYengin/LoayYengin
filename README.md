@@ -1,6 +1,5 @@
 # Learn to Build A Static Website For Your Resume
 
-## Purpose
 
 This is a guide on how to host and format a resume using the following tools: Markdown, a Markdown 
 editor, Github Pages, and Jekyll. This is written for computer science students interested in learning the general 
@@ -8,7 +7,6 @@ principles of current Technical Writing, as expalained by Andrew Etter's book [M
 introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) and applying them
 by hosting your own resume on a static website.
 
-## Demo
 ![resume-demo](readme-assets/resume-demo.gif)
 
 ## Table of Contents
@@ -129,8 +127,7 @@ also allows the writer to keep their writing up-to-date and accessible to the wi
 
 ## More Resources
 - [Markdown tutorial](https://www.markdowntutorial.com/)
-- [Modern Technicial Writing: An introduction to Software Documentation](https://www.amazon.
-  ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+- [Modern Technicial Writing: An introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - [Jekyll Documentation](https://jekyllrb.com/docs/)
 - [Jekyll Tutorial](https://www.mikedane.com/static-site-generators/jekyll/)
 
