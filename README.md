@@ -62,13 +62,10 @@ Note: Your static site is now hosted at `https://username.github.io/repository-n
 ![clone-repo](readme-assets/clone-repo.gif)
 - Go into the repository: `cd "respository-name"`
 - Change to the new branch: `git switch my-resume`
-- Run the command `bundle install`
-- Run the command `bundle exec jekyll build` to build your website (This will create a new directory 
-  called "_site")
-  - Only `jekyll build` is required after building your site for the first time.
-- Go into _site: `cd _site`
-- Run the command `bundle exec jekyll serve` 
-  - Only `jekyll serve` is required after hosting your site locally for the first time.
+- Run the command: `bundle install`
+- Run the command: `bundle exec jekyll build` to build your website
+- Go into the newly created directory _site: `cd _site`
+- Run the command `bundle exec jekyll serve`
 - Open up a web browser and go to`localhost:4000` to preview your website
 
 ### 5. Customize your website locally
@@ -86,12 +83,10 @@ layout: default
 
 ### 6. Update your remote repository
 - Run the command `git add .` to stage all the files that were modified in your current directory
-- Commit your changes
-  - `git commit on "your commit message"`
-- Push your changes.
-  - 'git push '
+- Commit your changes: `git commit on "your commit message"`
+- Push your changes: `git push`
   
-NOTE: It may take several minutes for GitHub pages update
+NOTE: It may take a few minutes for GitHub pages update
 
 ## Principles of Technical Writing
 
@@ -138,9 +133,13 @@ also allows the writer to keep their writing up-to-date and accessible to the wi
 
 ## FAQs
 
-1. Why is Markdown better than a word processor?
+### 1. Why is Markdown better than a word processor?
 - Many of the documents that we create in computer sicence is formatted as plain text such as source code (Java, 
-  Python, C, etc.) are written in plain text. Furthermore, Writing Markdown formatted plain text files alows them to be opened 
-  and read in almost all environments. Lastly, Markdown is a format that is long-lived; you can still open 
-  and read files written in the 90s however, you can't open many word processor formats today. 
-2. Why is my resume not showing up?
+  Python, C, etc.) are written in plain text. Furthermore, Writing Markdown formatted plain text files allows them 
+  to be opened and read in almost all environments. Lastly, Markdown is a format that is long-lived; you can still open 
+  and read files written in the 90s however, you can't open many word processor formats today.
+
+### 2. Why am I seeing the following output after running `bundle exec jekyll serve`?
+>Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-4.2.2/lib/jekyll/commands/serve/servlet.rb:3:in 'require': cannot load such file -- webrick (LoadError)`
+- Some Jekyll templates use the WEBrick options to create custom headers which is no longer a bundled gem in Ruby 3.0
+  - Run the command `bundle add webrick` to add the webrick dependecies.
