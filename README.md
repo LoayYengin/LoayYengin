@@ -135,8 +135,8 @@ also allows the writer to keep their writing up-to-date and accessible to the wi
 
 - **Author**: Yengin Loay
 - **Group Members**: 
-  - Aidan
-  - May
+  - Aidan Garvey
+  - May Chen
 - **Minimal Theme Author**: Steve Smith
 
 ## FAQs
