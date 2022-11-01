@@ -15,7 +15,7 @@ by hosting your own resume on a static website.
 
 - **Resume formated in Markdown**
   - Here is a [tutorial](https://www.markdowntutorial.com/) to learn the basics of Markdown.
-  - An free [online Markdown editor](https://dillinger.io/) is available. 
+  - A free [online Markdown editor](https://dillinger.io/) is available. 
 - **Git** - A free open source distributed version control system. [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - **Ruby** - An open source programming language. [Install Ruby](https://jekyllrb.com/docs/installation/)
 - **Jekyll** - A static website generator. [Install Jekyll](https://jekyllrb.com/docs/installation/)
@@ -23,7 +23,11 @@ by hosting your own resume on a static website.
 
 NOTE: No experience with Markdown, GitHub, or the command line is assumed.
 
-## Instructions
+# Instructions
+The practical steps for hosting a resume will be described first followed by how they relate to a concept in Etter's 
+book.
+
+## Hosting a Resume
 
 ### 1. Fork a theme repository
 - Go to a Jekyll theme respository.
@@ -80,13 +84,17 @@ layout: default
 - Refresh your browser to view the update.
 
 ### 6. Update your remote repository
-- Run the command `git add .` to stage all the files that were modified
+- Run the command `git add .` to stage all the files that were modified in your current directory
 - Commit your changes
   - `git commit on "your commit message"`
 - Push your changes.
   - 'git push '
   
 NOTE: It may take several minutes for GitHub pages update
+
+## Principles of Technical Writing
+
+
 
 ## More Resources
 - [Markdown tutorial](https://www.markdowntutorial.com/)
