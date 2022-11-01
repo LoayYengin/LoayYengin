@@ -24,8 +24,9 @@ by hosting your own resume on a static website.
 NOTE: No experience with Markdown, GitHub, or the command line is assumed.
 
 # Instructions
-The practical steps for hosting a resume will be described first followed by how they relate to a concept in Etter's 
-book.
+Begin by following the steps to hosting a resume. Next, learn about how they relate to the principles of techncial 
+writing in Etter's book. In the end you should have a working website with your resume on it and more knowledgeable  
+about modern technical writing.
 
 ## Hosting a Resume
 
@@ -98,15 +99,9 @@ Relate the steps above to general principles of techncial writing
 
 ### Know your Audience
 
-Writers have to make assumptions about their readers for them to target the writing towards their audience. If the 
-assumption is made that the reader knows nothing about the topic, the writer would have to provide more background 
-information and explanation. However, If the if the reader is already knowledgeable about the topic, then the 
-writing can be more concise and to the point. Defining your audience can help 
-you decide what level of detail to include in your writing. Writers have to make assumptions about their readers for 
-them to target their writing towards their audience. For example, if you're writing for experts in a particular 
-field, you can assume that they already have a lot of knowledge about the topic and therefore don't need a lot of 
-explanation. On the other hand, if you're writing for people who are new to the topic, you'll need to provide more 
-detail.
+Audience awareness is essential for techncial writing. When creating your resume, it is important to keep your 
+audience in mind. Who will be reading your resume and what kind of information are they looking for? Defining your 
+audience allows you to tailor your resume by allowing you to know what key pieces of information is needed.
 
 ### Functional Documentation
 
@@ -117,8 +112,9 @@ and structed in a way that is easy to follow.
 ### Style
 
 Consistency is important in technical writing so that readers can easily understand what is being communicated. A 
-consistent style also makes it easier for writers to produce clear and concise text. Additionally, the use headers,  
-lists, tables and images makes it easier to scan and mentally process the information.
+consistent style also makes it easier for writers to produce clear and concise text. Use headers and subheaders to 
+help organize information. Additionally, use lists, tables and images makes it easier for readers to scan and 
+process the information.
 
 ### Use a Website
 
