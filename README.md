@@ -1,17 +1,15 @@
 # Learn to Build A Static Website For Your Resume
 
-The following is a guide on how to host and format a static website resume made with *Markdown*, a Markdown editor, 
-*Github Pages*, and *Jekyll*
+## Purpose
 
-### Who is this for?
+This is a guide on how to host and format a resume using the following tools: Markdown, a Markdown 
+editor, Github Pages, and Jekyll. This is written for computer science students interested in learning the general 
+principals of current Technical Writing, as expalined by Andrew Etter's book [Modern Techncial Writing: An 
+introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) and applying them
+by hosting your own resume on a static website.
 
-This is written computer science students interested in learning the key principlals and tools in technical 
-communication, and applying them by hosting your own static website.
-
-No experience with Markdown, GitHub, or the command line is assumed.
-
-This document references Andrew Etter's book, [Modern Techncial Writing: An introduction to Software Documentation]
-(https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+### Demo
+![resume-demo](readme-assets/resume-demo.gif)
 
 ## Prerequisites
 
@@ -23,30 +21,40 @@ This document references Andrew Etter's book, [Modern Techncial Writing: An intr
 - **Jekyll** - A static website generator. [Install Jekyll](https://jekyllrb.com/docs/installation/)
 - **Github account** - [Sign up](https://github.com/join) for free!
 
+NOTE: No experience with Markdown, GitHub, or the command line is assumed.
+
 ## Instructions
 
 ### 1. Fork a theme repository
 - Go to a Jekyll theme respository.
   - Here is a [collection](https://github.com/pages-themes) of Jekyll themes for GitHub Pages
-- Click on the "Fork" button   
+- Click the "Fork" button   
 ![fork-repo](readme-assets/fork-repo.png)
-- Change the name of the repository to `username.github.io`
+- Change the name of the repository  
+![repo-name](readme-assets/repo-name.png)
 
 ### 2. Create a new branch
-- Go to branch
-- Click on "New Branch" button
+- Go to branch  
+![branch](readme-assets/branch.png)
+- Click the "New Branch" button
   - Give it a name
-  - click "create branch" button
+  - Click the "create branch" button
+
+![create-branch](readme-assets/create-branch.gif)
 
 ### 3. Host your website with Github Pages
 - Go to `Settings > Pages`
-- Select your new branch as the source and click "save"
->Your static site is now hosted on `https://username.github.io/repository-name`. This may take a few minutes to deploy
+- Select your new branch as the source and click the "save" button  
+![host-website](readme-assets/host-website.gif)
+
+Note: Your static site is now hosted at `https://username.github.io/repository-name`. This may take a few minutes to 
+  deploy
 
 ### 4. View the website locally
 - Open the command line 
 - Clone the respository with the command: `git clone https://github.com/LoayYengin/minimal.git`
-  - To find the URL Click the "Code" button and copy the HTTPS link
+  - To find the URL Click the "Code" button and copy the HTTPS link  
+![clone-repo](readme-assets/clone-repo.gif)
 - Go into the repository: `cd "respository-name"`
 - Change to the new branch: `git switch my-resume`
 - Run the command `bundle install`
