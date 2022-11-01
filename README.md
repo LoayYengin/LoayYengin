@@ -75,7 +75,7 @@ Note: Your static site is now hosted at `https://username.github.io/repository-n
 - Run the command `bundle exec jekyll serve`
 - Open up a web browser and go to`localhost:4000` to preview your website
 
-### 5. Customize website locally
+### 5. Customize Website Locally
 - Open index.md in a text editor
 - Replace the contents in `index.md` with your Markdown formatted resume content 
 ```text
