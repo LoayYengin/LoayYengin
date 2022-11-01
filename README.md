@@ -24,9 +24,11 @@ by hosting your own resume on a static website.
 NOTE: No experience with Markdown, GitHub, or the command line is assumed.
 
 # Instructions
-Begin by following the steps to hosting a resume. Next, learn about how they relate to the principles of techncial 
-writing in Etter's book. In the end you should have a working website with your resume on it and more knowledgeable  
-about modern technical writing.
+Begin by following the steps to [hosting a resume](#hosting-a-Resume). Next, learn about how they relate to the 
+[principles of techncial writing](#Principles-of-Technical-Writing) in Etter's book. In the end you should have a 
+working 
+website with your resume on it 
+and more knowledgeable about modern technical writing.
 
 ## Hosting a Resume
 
