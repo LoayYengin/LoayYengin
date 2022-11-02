@@ -33,7 +33,7 @@ NOTE: No prior experience with Markdown, GitHub, or the command line is required
 # Instructions
 Begin with following the steps to [hosting a resume](#hosting-a-Resume). Next, learn about how they relate to the 
 [principles of technicial writing](#Principles-of-Technical-Writing) in Etter's book. In the end, you should have a 
-working website with your resume on it and being more knowledgeable about modern technical writing.
+working website with your resume on it and be more knowledgeable about modern technical writing.
 
 ## Hosting a Resume
 
@@ -42,7 +42,7 @@ working website with your resume on it and being more knowledgeable about modern
   - Here is a [collection](https://github.com/pages-themes) of Jekyll themes for GitHub Pages
 - Click **Fork**  
 ![fork-repo](readme-assets/fork-repo.png)
-- Change the name of the repository and click **Create fork**  
+- Change the name of the repository to your-username.github.io and click **Create fork**  
 ![rename-repo](readme-assets/rename-repo.gif)
 
 ### 2. Create New Branch
@@ -90,14 +90,12 @@ layout: default
 
 ### 6. Update Your Remote Website
 - Run the command `git add .` to stage all of the files that were modified in your current directory
-- Commit your changes: `git commit on "your commit message"`
+- Commit your changes: `git commit -m "your commit message"`
 - Push your changes: `git push`
   
 NOTE: It may take a few minutes for GitHub pages update
 
 ## Principles of Technical Writing
-
-Relate the steps above to general principles of technicial writing
 
 ### Know your Audience
 
@@ -119,11 +117,27 @@ help organize information. Additionally, using lists, tables and images makes sc
 information easier for users.
 process the information.
 
-### Use a Website
+### Make a Static Website
 
 Hosting technical information on a website allows the writer to quickly and easily distribute their writing. This 
-also allows the writer to keep their writing up-to-date and accessible to the widest possible audience.
+also allows the writer to keep their writing up-to-date and accessible to the widest possible audience. Static 
+websites are great because they are fast and simple since they don't rely on a database. They can also be hosted 
+anywhere which makes them very easy to set up and maintain.
 
+### Lightweight Markup
+
+One of the most popular lightweight markup languages is Markdown. The syntax is designed to be as simple and 
+straightforward as possible which makes it easy to read, write, and edit. Another reason to use a lightweight markup 
+language is that they are easy to translate into other markup languages such as XML and HTML which can be obscure 
+and verbose in comparison to Markdown.
+
+### Distributed Version Control
+
+There are many advantages to using distributed version control systems (DVCS) when creating documentation. Git is an 
+example of DVCS and GitHub is a service that manages the repositories. They allow multiple people to work on the same 
+document at the same time, and tracks changes so that authors can revert to older versions of the document if needed.
+Additionally, DVCS promotes collaboration since documents can be easily shared between different contributors and 
+changes can be reviewed and updated efficiently.
 
 ## More Resources
 - [Markdown tutorial](https://www.markdowntutorial.com/)
