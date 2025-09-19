@@ -1,6 +1,6 @@
 ### Welcome to my corner of the internet 👋
 
-- 💻 Computer Science / Biology Degree from the University of Manitoba
+- 💻 Computer Science / Biology degree from the University of Manitoba
 - 🐟 Former Aquatic Biologist in Canada and internationally
 - 📈 Professional interests: UX research, data visualization, mobile development, accessibility and "warm" technology
 - 🛫 Non-professional interests: Hiking, travel, ultimate frisbee and baking
