@@ -2,7 +2,7 @@
 
 - 💻 Computer Science / Biology degree from the University of Manitoba
 - 🐟 Former Aquatic Biologist in Canada
-- 📈 Professional interests: UX research, data visualization, mobile development, accessibility and "warm" technology
+- 📈 Professional interests: UX research, Databases and Data Engineering, data visualization, accessibility and "warm" technology
 - 🛫 Non-professional interests: Hiking, travel, ultimate frisbee and baking
 
 <!--
